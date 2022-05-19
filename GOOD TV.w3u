@@ -1,0 +1,135 @@
+﻿{
+"name"		  	:	"Good TV",
+"author"	  	:  	"กู๊ดทีวี",
+"image"		  	:	"http://tv.co.th/wp-content/uploads/2019/11/goodtv-logo-2019-1-1.jpg",
+"url"      		:   	"https://yamcode.com/raw/pqeq-96741",
+"stations"		:
+[
+{
+"name"			:	"ของดีประเทศไทย",
+"image"			:	"https://cdn.discordapp.com/attachments/961584381993037847/961593573025939506/dc42caaeaa178fa25136f5bd2760baed.png",
+"url"			:	"https://mediasv.online/stream_live/goodtv37_KhongDee./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozNTo0MSBBTSZoYXNoX3ZhbHVlPWcva1lCZisveWVqaG5nMzdHelFIc1E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzAmaWQ9Y2hfMzQ3NTU=",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"ANIMAL SHOW",
+"image"			:	"https://cdn.discordapp.com/attachments/961584381993037847/961593509490589696/65f0371282e145d42326b240c6d5e60a.png",
+"url"			:	"https://mediasv.online/stream_live/goodtv56_AnimalShow./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDoyOToxMSBBTSZoYXNoX3ZhbHVlPXVMclRLd21odnNpRFpZQXllRlNOcFE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzImaWQ9Y2hfNDk3Mjg=",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"BXCITE",
+"image"			:	"https://cdn.discordapp.com/attachments/961584381993037847/961593573248204850/eddd47801fcb6b5ef2ee31047a360b19.png",
+"url"			:	"https://mediasv.online/stream_live/goodtv57_BXcite./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozMTo0NSBBTSZoYXNoX3ZhbHVlPXFWMThkVzFEblN4RDV1ZDlyNjNNWHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNzA2ODY=",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"MYSCI",
+"image"			:	"https://cdn.discordapp.com/attachments/961584381993037847/961593508764995624/7eb06119adfc77ee068cfafb1f0c7927.png",
+"url"			:	"https://mediasv.online/stream_live/goodtv58_MYSci./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozNzoxNCBBTSZoYXNoX3ZhbHVlPXEvb0JGOFVTYmZWc3o3dTlZeWRmVFE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfNTg3MzU=",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"New Exploer",
+"image"			:	"https://cdn.discordapp.com/attachments/961584381993037847/961593508559454288/6a48e0c5d526324012e5dc58b3b62526.png",
+"url"			:	"https://mediasv.online/stream_live/goodtv59_New_Explorer./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozODoxNyBBTSZoYXNoX3ZhbHVlPVBiN3FzU3IvcWJ5YVdvV0VjMko3MEE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzQmaWQ9Y2hfNTQxNjg=",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"บุษบาคาเฟ่",
+"image"			:	"https://cdn.discordapp.com/attachments/961584381993037847/961593553606307870/3257533a1edfa8b8c110aad10cbb3487.png",
+"url"			:	"https://mediasv.online/stream_live/goodtv38_Busaba./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozMDozOSBBTSZoYXNoX3ZhbHVlPUZiTDd5QllLWXJBSkszeGtKMDNuSWc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNDY4MjM=",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"JustFun",
+"image"			:	"https://cdn.discordapp.com/attachments/961584381993037847/961593509742272532/75b072de62f10539d65042da748e7e6b.png",
+"url"			:	"https://mediasv.online/stream_live/goodtv39_JustFun./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozNDo0NyBBTSZoYXNoX3ZhbHVlPXJMZGQ2U2R4TFA1NmY4ZzBpejlkQ0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjkmaWQ9Y2hfNjgwNTE=",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"Thainess",
+"image"			:	"https://cdn.discordapp.com/attachments/961584381993037847/961593509176021032/8ef1fc7a0bb705d7bb34132f1c28ae40.png",
+"url"			:	"https://mediasv.online/stream_live/goodtv40_ThaiNess./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDo0MjoxNiBBTSZoYXNoX3ZhbHVlPUFCTHV6YW4wS0xRSkdWUGRWa1c5ZlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzAmaWQ9Y2hfMTY0OTE=",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"RealMETRO",
+"image"			:	"https://cdn.discordapp.com/attachments/961584381993037847/961593508957929513/7f78d7471b5a6f8f58a929aca2e9fe7c.png",
+"url"			:	"https://mediasv.online/stream_live/goodtv41_RealMetro./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDo0MDoxNyBBTSZoYXNoX3ZhbHVlPUNCbkExdytNRUZGRG5ZYVZpN09VM0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzEmaWQ9Y2hfNTc4OTE=",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"Sweet",
+"image"			:	"https://cdn.discordapp.com/attachments/961584381993037847/961593510027477062/83bcb737ec4ff125f02a56bc9fe279da.png",
+"url"			:	"https://mediasv.online/stream_live/goodtv42_Sweet./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDo0MTowMCBBTSZoYXNoX3ZhbHVlPTdHQVF3WmlYellsdHUzRnQ2NTlPUkE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfMzY1MTU=",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"Heart",
+"image"			:	"https://cdn.discordapp.com/attachments/961584381993037847/961593510690185246/628163dad404a06b0d6ae7632cbabfb1.png",
+"url"			:	"https://mediasv.online/stream_live/goodtv43_Heart./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozMjo1NyBBTSZoYXNoX3ZhbHVlPXVObWZhNDZRRWFlY0hmRFBDNmJUREE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfNjU0Nzg=",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"สำรวจโลก",
+"image"			:	"https://cdn.discordapp.com/attachments/961584381993037847/961593510493061171/05636ed570352d41af1a75c472f37552.jpg",
+"url"			:	"https://mediasv.online/stream_live/goodtv55_Sumlojlok./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMTo1MzowNCBQTSZoYXNoX3ZhbHVlPVlKd1lzUHE4N1VWSmNrZVhzV1hGQWc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzEmaWQ9Y2hfMTg5MTI=",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"Hero",
+"image"			:	"https://cdn.discordapp.com/attachments/961584381993037847/961593553878925322/d4bd8b0f3839244c29e4feaa98f40533.png",
+"url"			:	"https://mediasv.online/stream_live/goodtv44_Hero./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozNDowMSBBTSZoYXNoX3ZhbHVlPUJOenluWVI4ZTV4MUFHUWxTaW1vYVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjYmaWQ9Y2hfMzg2NTg=",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"NextKid",
+"image"			:	"https://cdn.discordapp.com/attachments/961584381993037847/961593510270734386/810a5fa68863efb67e7db2d6037c165a.jpg",
+"url"			:	"https://mediasv.online/stream_live/goodtv66_nextKid./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozOToxMyBBTSZoYXNoX3ZhbHVlPUVVVUhMbVUvYkpxRzB2QzRNbER1bmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjkmaWQ9Y2hfMjgxNzU=",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+]
+}
